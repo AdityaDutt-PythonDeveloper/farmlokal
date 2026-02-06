@@ -34,5 +34,3 @@ Node.js, Express, MySQL, Redis
 npm install  
 npm run dev  
 
-## Live URL
-https://your-app.onrender.com
